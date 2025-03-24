@@ -8,7 +8,7 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=nathyaneoliveira&theme=neon" />
 </a>
 <a href="https://github.com/nathyaneoliveira/convoychat">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon&card_width=200" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon&card_width=280" />
 </a>
 
 ## 🚀 TECNOLOGIAS
