@@ -24,7 +24,6 @@
    <img src="https://img.icons8.com/color/100/2A73CC/microsoft-excel-2019.png" title="Excel"/>
    <img src="https://img.icons8.com/color/100/2A73CC/microsoft-word-2019.png" title="Word"/>
    <img src="https://img.icons8.com/color/100/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint"/>
-   <img src="https://img.icons8.com/color/100/FF6A00/marketing.png" title="Marketing Digital"/>
   <img src="https://img.icons8.com/color/100/FF0000/canva.png" title="Canva"/>
 </p>
 
