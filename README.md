@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Nathyane Oliveira
 
-![Banner](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Hello GIF" width="300"/>
+</p>
 
 💻 **Software Developer | AI & Web Enthusiast | Data Explorer**  
 🎓 **Studying Computer Science at Unipê, Brazil**  
@@ -61,7 +63,7 @@
 
 ---
 
-## 💡 Featured Projects
+## 💻 Featured Projects
 <p align="center">
   <a href="https://github.com/nathyaneoliveira/geo_system" target="_blank">
     <img src="https://img.icons8.com/color/100/000000/map.png" width="80" title="Geo System" style="margin:10px;"/>
@@ -76,7 +78,24 @@
 
 ---
 
+## 🔘 Quick Buttons
+<p align="center">
+  <a href="https://github.com/nathyaneoliveira" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-Visit-%23000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathyaneoliveira/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nathyaneoliveira/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:snathyaneoliveira@hotmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-Send-%230078D4?style=for-the-badge&logo=microsoft-outlook" />
+  </a>
+</p>
+
+---
+
 ## 🌟 Let's Connect
 I'm always open to **collaborations, learning, and exciting projects**.  
 Feel free to reach out through **LinkedIn, Email, or Instagram**.  
-
