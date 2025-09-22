@@ -1,15 +1,14 @@
-## 👽 OLÁ, ME CHAMO NATHYANE. SEJA BEM VINDO(A) AO MEU PERFIL!
-## 📍INFORMAÇÕES
-🎓 CIÊNCIA DA COMPUTAÇÃO
-🌎IDIOMAS: PORTUGUÊS - NATIVO, INGLÊS - BÁSICO, ESPALHOL - INTERMEDIÁRIO
+## 👽 OLÁ, ME CHAMO NATHYANE. SEJA BEM-VINDO(A) AO MEU PERFIL!
+
+## 📍 INFORMAÇÕES
+🎓 CIÊNCIA DA COMPUTAÇÃO  
+🌎 IDIOMAS: PORTUGUÊS - NATIVO, INGLÊS - BÁSICO, ESPANHOL - INTERMEDIÁRIO
 
 ## 📉 DADOS
-<a href="https://github.com/nathyaneoliveira/github-readme-stats">
-  <img height=140 align="center" src="[https://github-readme-stats.vercel.app/api?username=nathyaneoliveira&theme=neon]" />
-</a>
-<a href="https://github.com/nathyaneoliveira/convoychat">
-  <img height=140 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon&card_width=280]" />
-</a>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=nathyaneoliveira&theme=neon" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon&card_width=280" />
+</p>
 
 ## 🚀 TECNOLOGIAS
 <p align="center">
@@ -19,10 +18,10 @@
   <img src="https://img.icons8.com/color/100/CC2927/database.png" title="SQL"/>
   <img src="https://img.icons8.com/color/100/00599C/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/100/4DB33D/mongodb.png" title="MongoDB"/>
-   <img src="https://img.icons8.com/color/100/0061B0/sql.png" title="SQLite"/>
-   <img src="https://img.icons8.com/color/100/2A73CC/microsoft-excel-2019.png" title="Excel"/>
-   <img src="https://img.icons8.com/color/100/2A73CC/microsoft-word-2019.png" title="Word"/>
-   <img src="https://img.icons8.com/color/100/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint"/>
+  <img src="https://img.icons8.com/color/100/0061B0/sql.png" title="SQLite"/>
+  <img src="https://img.icons8.com/color/100/2A73CC/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/100/2A73CC/microsoft-word-2019.png" title="Word"/>
+  <img src="https://img.icons8.com/color/100/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint"/>
   <img src="https://img.icons8.com/color/100/FF0000/canva.png" title="Canva"/>
 </p>
 
