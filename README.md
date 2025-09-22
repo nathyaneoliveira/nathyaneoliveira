@@ -18,7 +18,6 @@
   <img src="https://img.icons8.com/color/100/F2C811/power-bi.png" title="Power BI"/>
   <img src="https://img.icons8.com/color/100/CC2927/database.png" title="SQL"/>
   <img src="https://img.icons8.com/color/100/00599C/c-programming.png" title="C"/>
-   <img src="https://img.icons8.com/color/100/007396/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/100/4DB33D/mongodb.png" title="MongoDB"/>
    <img src="https://img.icons8.com/color/100/0061B0/sql.png" title="SQLite"/>
    <img src="https://img.icons8.com/color/100/2A73CC/microsoft-excel-2019.png" title="Excel"/>
