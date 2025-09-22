@@ -10,27 +10,18 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.icons8.com/color/48/3776AB/python.png" title="Python" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #3776AB);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #3776AB)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #3776AB)';"/>
-  
-  <img src="https://img.icons8.com/color/48/E34F26/html-5.png" title="HTML" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #E34F26);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #E34F26)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #E34F26)';"/>
-  
-  <img src="https://img.icons8.com/color/48/CC2927/mysql-logo.png" title="MySQL" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #CC2927);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #CC2927)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #CC2927)';"/>
-  
-  <img src="https://img.icons8.com/color/48/0061B0/sql.png" title="SQLite" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #0061B0);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #0061B0)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0061B0)';"/>
-  
-  <img src="https://img.icons8.com/color/48/00599C/c-programming.png" title="C" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #00599C);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #00599C)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #00599C)';"/>
-  
-  <img src="https://img.icons8.com/color/48/4DB33D/mongodb.png" title="MongoDB" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #4DB33D);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #4DB33D)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #4DB33D)';"/>
-  
-  <img src="https://img.icons8.com/color/48/F2C811/power-bi.png" title="Power BI" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #F2C811);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #F2C811)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #F2C811)';"/>
-  
-  <img src="https://img.icons8.com/color/48/2A73CC/microsoft-excel-2019.png" title="Excel" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #2A73CC);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #2A73CC)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #2A73CC)';"/>
-  
-  <img src="https://img.icons8.com/color/48/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #ED7D31);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #ED7D31)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #ED7D31)';"/>
-  
-  <img src="https://img.icons8.com/color/48/FF0000/canva.png" title="Canva" style="margin:5px; transition:0.3s; filter: drop-shadow(0 0 5px #FF0000);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #FF0000)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #FF0000)';"/>
-</p>
-
+  <img src="https://img.icons8.com/color/48/3776AB/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/E34F26/html-5.png" title="HTML"/>
+  <img src="[https://img.icons8.com/color/48/FF0000/css.png)" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/CC2927/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/0061B0/sql.png" title="SQLite"/>
+  <img src="https://img.icons8.com/color/48/00599C/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/4DB33D/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/F2C811/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/2A73CC/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint"/>
+  <img src="https://img.icons8.com/color/48/FF0000/canva.png" title="Canva"/>
+</p> coloque css 
 
 ---
 
