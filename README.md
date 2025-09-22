@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/3776AB/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/E34F26/html-5.png" title="HTML"/>
-  <img src="[https://img.icons8.com/color/48/FF0000/css.png)" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/1572B6/css3.png" title="CSS"/>
   <img src="https://img.icons8.com/color/48/CC2927/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/0061B0/sql.png" title="SQLite"/>
   <img src="https://img.icons8.com/color/48/00599C/c-programming.png" title="C"/>
@@ -21,7 +21,7 @@
   <img src="https://img.icons8.com/color/48/2A73CC/microsoft-excel-2019.png" title="Excel"/>
   <img src="https://img.icons8.com/color/48/ED7D31/microsoft-powerpoint-2019.png" title="PowerPoint"/>
   <img src="https://img.icons8.com/color/48/FF0000/canva.png" title="Canva"/>
-</p> coloque css 
+</p>
 
 ---
 
