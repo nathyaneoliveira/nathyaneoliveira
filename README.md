@@ -24,10 +24,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Achievements
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=nathyaneoliveira&theme=neon"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=nathyaneoliveira&show_icons=true&theme=neon"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathyaneoliveira&layout=compact&langs_count=8&theme=neon"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathyaneoliveira&theme=neon" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathyaneoliveira&style=flat-square&color=39FF14" alt="Profile Views"/>
+</p>
+
+---
+
+## 🏆 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Passionate-%2338FF14" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-%2338FF14" />
+  <img src="https://img.shields.io/badge/Web-Developer-%2338FF14" />
+  <img src="https://img.shields.io/badge/Data-Explorer-%2338FF14" />
+  <img src="https://img.shields.io/badge/Student-%2338FF14" />
 </p>
 
 ---
@@ -41,9 +60,15 @@
     <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram.png" width="50" title="Instagram" style="margin-right: 15px;"/>
   </a>
   <a href="mailto:snathyaneoliveira@hotmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0078D4/ms-outlook.png" width="50" title="Hotmail" style="margin-right: 15px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/0078D4/ms-outlook.png" width="50" title="Email" style="margin-right: 15px;"/>
   </a>
   <a href="https://github.com/nathyaneoliveira" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="50" title="GitHub" style="margin-right: 15px;"/>
   </a>
 </p>
+
+---
+
+## 🌟 Let's Connect
+Feel free to reach out for collaboration, projects, or just to say hi!  
+I love working with **AI**, **Web Development**, **Data Analysis**, and **Software Projects**.
