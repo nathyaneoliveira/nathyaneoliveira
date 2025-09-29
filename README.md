@@ -8,7 +8,7 @@
 
 ---
 
-💻 Tech Stack
+# 💻 Tech Stack
 
 🌐 Linguagens e Bancos de Dados
 <p align="center"> <img src="https://img.icons8.com/color/48/3776AB/python.png" title="Python"/> <img src="https://img.icons8.com/color/48/E34F26/html-5.png" title="HTML"/> <img src="https://img.icons8.com/color/48/1572B6/css3.png" title="CSS"/> <img src="https://img.icons8.com/color/48/CC2927/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/0061B0/sql.png" title="SQLite"/> <img src="https://img.icons8.com/color/48/4DB33D/mongodb.png" title="MongoDB"/> <img src="https://img.icons8.com/color/48/00599C/c-programming.png" title="C"/> </p>
